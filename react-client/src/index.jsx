@@ -20,7 +20,6 @@ class App extends React.Component {
     this.setState({
       view: option
     });
-    // console.log(this.state.view);
   }
 
   getView() {

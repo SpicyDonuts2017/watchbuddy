@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { Button, Image, List, Segment, Icon } from 'semantic-ui-react'
 import ShowEntry from './ShowEntry.jsx';
 

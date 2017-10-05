@@ -10,7 +10,6 @@ class UserHome extends Component {
 
   render () {
     return (<Container fluid>
-
       <Navbar loggedIn='true'/>
       <Header as='h3' textAlign='center'>
         <Icon name='film'/> Welcome back, name!

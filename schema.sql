@@ -8,7 +8,7 @@ CREATE TABLE user (
   id int NOT NULL AUTO_INCREMENT,
   username varchar(255) NOT NULL,
   password varchar(255) NOT NULL,
-  showtitle varchar(255),
+  showtitle int,
   season int,
   episode int,
   start DATE,

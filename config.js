@@ -1,3 +1,5 @@
 module.exports = {
-  TOKEN: 'ffbcbaa76073ddfb688612a009893899'
+  TOKEN: ''
 };
+
+//get from moviedb https://developers.themoviedb.org/3/getting-started
